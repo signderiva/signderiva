@@ -1,0 +1,22 @@
+{
+  "name": "signderiva",
+  "version": "0.0.0",
+  "description": "Signderiva CLI Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/signderiva/signderiva.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Signderiva SA",
+  "license": "CC-BY-ND-2.5",
+  "bugs": {
+    "url": "https://github.com/signderiva/signderiva/issues"
+  },
+  "homepage": "https://github.com/signderiva/signderiva#readme"
+}

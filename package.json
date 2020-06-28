@@ -1,6 +1,6 @@
 {
   "name": "signderiva",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Signderiva CLI Tools",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/signderiva/signderiva/issues"
   },
-  "homepage": "https://github.com/signderiva/signderiva#readme"
+  "homepage": "https://github.com/signderiva/signderiva#readme",
+  "dependencies": {
+    "@signderiva/lib-kernel": "^1.0.2",
+    "cli-table": "^0.3.1",
+    "elliptic": "^6.5.3",
+    "inquirer": "^7.2.0",
+    "node-emoji": "^1.10.0",
+    "prettyjson": "^1.2.1",
+    "qrcode": "^1.4.4",
+    "subcommander": "^1.0.0"
+  }
 }
